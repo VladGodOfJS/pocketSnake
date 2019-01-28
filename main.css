@@ -1,0 +1,29 @@
+
+
+
+.board {
+
+    position: relative;
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    background-color: #000;
+}
+
+
+.snake {
+    
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-color: #c87;
+}
+
+.tail {
+   
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-color: green;
+
+}
